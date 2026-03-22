@@ -1,0 +1,18 @@
+{ 
+  "mod_name": "Infinite Ammo RE6",
+  "version": "1.0.0",
+  "author": "gardeshem12-sys",
+  "description": "Infinite ammo cheat for Resident Evil 6",
+  "enabled": true,
+  "settings": {
+    "max_ammo": 9999,
+    "auto_refill": true,
+    "all_weapons": true,
+    "update_interval": 1
+  },
+  "compatibility": {
+    "game": "Resident Evil 6",
+    "platform": "PC",
+    "framework": "REFramework"
+  }
+}
